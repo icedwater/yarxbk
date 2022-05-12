@@ -1,0 +1,13 @@
+# vim swap files
+.*.sw?
+
+# images
+*.gif
+*.jpg
+*.png
+
+# archives
+*.tar
+*.zip
+*.tgz
+*.tar.gz
