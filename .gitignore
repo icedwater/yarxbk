@@ -11,3 +11,7 @@
 *.zip
 *.tgz
 *.tar.gz
+
+# node cruft
+node_modules/
+package-lock.json
